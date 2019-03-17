@@ -53,6 +53,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Knight\scripts\rotator.cs" />
      <Compile Include="Assets\Lava\ScrollingUVs_Layers.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
@@ -67,6 +68,7 @@
      <None Include="Assets\Kenney Assets\Castle Kit\License.txt" />
      <None Include="Assets\Fantasy Defensive Structures\Fantasy Defensive Strucures\Readme.txt" />
      <None Include="Assets\Lava\Lava.shader" />
+     <None Include="Assets\Knight\shaders\doublesidedshader.shader" />
      <None Include="Assets\SkySerie Freebie\Hdri setup.txt" />
      <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
  <Reference Include="Unity.TextMeshPro.Editor">
