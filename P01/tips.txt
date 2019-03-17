@@ -1,0 +1,17 @@
+
+
+ESCENARIOS 3D (sketch) 
+https://kenney.nl/assets/castle-kit
+
+posible: 
+https://assetstore.unity.com/packages/3d/environments/railway-sleepers-95855
+
+ULTRA SÚPER MEGA NECESARIO: 
+ExportTerrain.cs
+Backface culling --> double sided materials 
+
+improve: 
+volcano parte arriba alinear 
+
+agilizar trabajo: 
+"snap vertices" para encajar prefabs 
