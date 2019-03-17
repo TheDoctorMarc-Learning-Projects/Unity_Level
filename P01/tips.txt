@@ -15,3 +15,11 @@ volcano parte arriba alinear
 
 agilizar trabajo: 
 "snap vertices" para encajar prefabs 
+
+
+
+   BEWARE OF: 
+
+No se podían importar environments porque al 
+instalar unity no checkeé una casilla. 
+Lo he instalado en un paquete a parte 
