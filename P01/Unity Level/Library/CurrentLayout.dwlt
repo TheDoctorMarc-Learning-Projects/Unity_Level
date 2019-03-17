@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 548}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -47,7 +47,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 498}
   m_MaxSize: {x: 14004, y: 14048}
   vertical: 0
-  controlID: 123
+  controlID: 121
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -149,7 +149,7 @@ MonoBehaviour:
     y: 0
     width: 1366
     height: 695
-  m_MinSize: {x: 950, y: 548}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -218,7 +218,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 498}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 51
+  controlID: 28
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -243,7 +243,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 224}
   m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 52
+  controlID: 29
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -336,21 +336,21 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Knight/models
+    - Assets/Standard Assets/Effects/TessellationShaders/Materials
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Knight/models
+  - Assets/Standard Assets/Effects/TessellationShaders/Materials
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\mdpdo\OneDrive\Documentos\Github\Unity_Level\P01\Unity
     Level
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 135}
-    m_SelectedIDs: 3ab50100
-    m_LastClickedID: 111930
-    m_ExpandedIDs: 00000000120c0000540d00000a0e0000920e00001e0f00009a0f00001e10000082100000281400008216000052180000c6b4010044b5010000ca9a3b
+    scrollPos: {x: 0, y: 531}
+    m_SelectedIDs: dc1c0000
+    m_LastClickedID: 7388
+    m_ExpandedIDs: 000000001c0c0000600d0000160e0000a00e00002c0f0000a80f00002c100000921000001c1200003e140000e2140000a016000078180000d21900001c1a0000641a0000001e0000c2b6010000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -378,7 +378,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000120c0000540d00001e0f00009a0f00001e100000821000008216000052180000c6b40100
+    m_ExpandedIDs: 000000001c0c0000600d0000160e0000a00e00002c0f0000a80f00002c100000921000003e140000a016000078180000ee1f0000c2b60100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -496,10 +496,10 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 256}
+      scrollPos: {x: 0, y: 418}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 9052feffd6fbffff529b0400
+      m_ExpandedIDs: 70d8ffffd6fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -554,9 +554,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 316.92554, y: 88.5159, z: 359.03506}
+    m_Target: {x: 532.6083, y: 140.21652, z: 423.0675}
     speed: 2
-    m_Value: {x: 316.92554, y: 88.5159, z: 359.03506}
+    m_Value: {x: 532.6083, y: 140.21652, z: 423.0675}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -584,13 +584,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.02719682, y: 0.96287626, z: -0.24670492, w: 0.10614286}
+    m_Target: {x: -0.08200295, y: 0.8367487, z: -0.13059387, w: -0.5254258}
     speed: 2
-    m_Value: {x: 0.02719682, y: 0.96287626, z: -0.24670492, w: 0.10614286}
+    m_Value: {x: -0.08200296, y: 0.8367488, z: -0.13059388, w: -0.52542585}
   m_Size:
-    m_Target: 2.8350878
+    m_Target: 102.33427
     speed: 2
-    m_Value: 2.8350878
+    m_Value: 102.33427
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -707,54 +707,4 @@ MonoBehaviour:
     y: 444
     width: 965
     height: 254
-  m_PersistentViewDataDictionary: {fileID: 0}
---- !u!114 &19
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 12059, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: UnityEditor:UnityEditor.Experimental.TerrainAPI:PaintTextureTool
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Failed to load
-    m_Image: {fileID: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 320
-    height: 550
-  m_PersistentViewDataDictionary: {fileID: 0}
---- !u!114 &20
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 12059, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: UnityEditor:UnityEditor.Experimental.TerrainAPI:SetHeightTool
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Failed to load
-    m_Image: {fileID: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 320
-    height: 550
   m_PersistentViewDataDictionary: {fileID: 0}
