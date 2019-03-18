@@ -17,6 +17,8 @@ agilizar trabajo:
 "snap vertices" para encajar prefabs 
 
 
+búsqueda: 
+estatua en formato obj 
 
    BEWARE OF: 
 
