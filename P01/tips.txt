@@ -19,6 +19,7 @@ agilizar trabajo:
 
 búsqueda: 
 estatua en formato obj 
+https://www.turbosquid.com/AssetManager/Index.cfm?stgAction=getFiles&subAction=Download&intID=1093047&intType=3
 
    BEWARE OF: 
 
